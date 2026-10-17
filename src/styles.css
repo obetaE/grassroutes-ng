@@ -1,4 +1,5 @@
 :root {
+
   font-family: "DM Sans", sans-serif;
   color: #1b291f;
   background: #f8f8f4;
@@ -896,3 +897,5 @@ button:focus-visible, a:focus-visible, input:focus-visible { outline: 3px solid 
   .progress-line { min-width: 5px; }
   .payment-options > label { flex-direction: column; }
 }
+
+/*  */
